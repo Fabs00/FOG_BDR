@@ -31,7 +31,8 @@ Dentro de las opciones a utilizar como SGBD tenemos **MySQL**, siendo de los má
 
 Para hacer la interacción con la información, se basa en el lenguaje SQL buscando hacer el "UPDATE, DELETE y SELECT"
 
-*Fuentes:*
-(https://sql.ac/blog/cual-es-el-significado-de-sgbd)  
-(https://mysqlya.com.ar/tecnologia/sgbd-mysql/#:~:text=%C2%BFEs%20MySQL%20un%20SGBD%20relacional%20o%20no%20relacional%3F,tablas%20para%20asegurar%20la%20integridad%20de%20los%20datos.)
 
+*Bibliografía*
+*Ivan. (2022, febrero 24). Todo lo que necesitas saber sobre SGBD MySQL. MySQL YA. https://mysqlya.com.ar/tecnologia/sgbd-mysql/*
+
+*SQL Academy - Learn SQL online. (s/f). Sql.Ac. Recuperado el 22 de enero de 2024, de https://sql.ac/blog/cual-es-el-significado-de-sgbd*
