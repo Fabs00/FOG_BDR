@@ -1,0 +1,101 @@
+id,year_film,year_ceremony,ceremony,category,film,Actor_Film
+1,1992,2010,33,Best Actor,Only You,Synthyris missurica (Raf.) Pennell ssp. missurica
+2,1993,2011,68,Best Actress,Let's Not Keep in Touch!,Isoetes microvela D.F. Brunton
+3,2001,2002,83,Best Actor,Mixed Nuts,Agalinis divaricata (Chapm.) Pennell
+4,1997,2008,14,Best Adapted Screenplay,Circle of Iron,Camissonia claviformis (Torr. & Frém.) P.H. Raven ssp. funerea (P.H. Raven) P.H. Raven
+5,2009,2000,93,Best Adapted Screenplay,Mr. Hobbs Takes a Vacation,Rhizophora mangle L.
+6,2001,1998,40,Best Original Screenplay,Pennies from Heaven,Achnatherum nevadense (B.L. Johnson) Barkworth
+7,2007,1995,89,Best Adapted Screenplay,Coherence,Arenaria aberrans M.E. Jones
+8,2012,2002,89,Best Actress,Martin & Orloff,Ginkgo biloba L.
+9,1995,1994,19,Best Actress,Fun is Beautiful,Ribes watsonianum Koehne
+10,2013,2012,59,Best Original Screenplay,Faces,Rhizocarpon anseris Lynge
+11,1997,2001,59,Best Adapted Screenplay,À propos de Nice,Lonicera dioica L.
+12,2003,2011,87,Best Original Screenplay,Japan's Longest Day (Nihon no ichiban nagai hi),Salix ×solheimii E.H. Kelso
+13,2000,2007,93,Best Actress,Fun is Beautiful,Arundinaria tecta (Walter) Muhl.
+14,1994,1997,92,Best Actress,American Roulette,Myriotrema laeviusculum (Nyl.) Hale
+15,2001,2006,98,Best Picture,The Legend of Sarila,Nemophila heterophylla Fisch. & C.A. Mey.
+16,2006,1984,59,Best Actress,Just 4 Kicks,Rourea surinamensis Miq.
+17,1992,1993,30,Best Adapted Screenplay,Only Old Men Are Going to Battle (V boy idut odni stariki),Polypogon Desf.
+18,1978,2000,75,Best Actress,Scream 3,Dactylospora inquilina (Tuck.) Hafellner
+19,1998,1997,43,Best Original Screenplay,Bewitched (Alter Ego),Hypericum sphaerocarpum Michx.
+20,2010,1997,10,Best Director,The Identical,Delairea odorata Lem.
+21,2000,1990,19,Best Director,Hitler's Children,Polygala setacea Michx.
+22,1996,2004,12,Best Original Screenplay,Delirious,Vitis acerifolia Raf.
+23,1993,1988,51,Best Actor,"Assassination (Ansatsu) (Assassination, The) (Assassin, The)",Ribes watsonianum Koehne
+24,1983,1994,37,Best Original Screenplay,Putin's Kiss,Allium canadense L. var. fraseri Ownbey
+25,2005,2005,80,Best Actor,"Girl on a Motorcycle, The",Bracteantha bracteata (Vent.) Anderb. & Heagi
+26,2001,2009,37,Best Original Screenplay,On a marché sur Bangkok,Lomatium sandbergii (J.M. Coult. & Rose) J.M. Coult. & Rose
+27,1998,1998,90,Best Original Screenplay,Malcolm X,Baccharis texana (Torr. & A. Gray) A. Gray
+28,1992,2005,48,Best Director,Child's Play 2,Ginkgo biloba L.
+29,1992,2008,6,Best Picture,Japan's Longest Day (Nihon no ichiban nagai hi),Eriogonum desertorum (Maguire) R.J. Davis
+30,1993,2011,76,Best Actress,Tarzan the Ape Man,Tagetes erecta L.
+31,2007,1997,39,Best Actor,Alice and Martin (Alice et Martin),Ramalina intermedia (Delise ex Nyl.) Nyl.
+32,1993,1990,47,Best Adapted Screenplay,"Red Shoes, The",Cullen americanum (L.) Rydb.
+33,1990,1994,88,Best Actor,Lucky Break (a.k.a. Paperback Romance),Crassula connata (Ruiz & Pav.) A. Berger var. subsimplex (S. Watson) Bywater & Wickens
+34,2002,1992,24,Best Director,Santa Claus,Wallenia yunquensis (Urb.) Mez
+35,2009,2004,81,Best Director,Dead Air,Echinocereus engelmannii (Parry ex Engelm.) Lem.
+36,2010,1999,23,Best Picture,Sarah Silverman:  We Are Miracles,Anemone sylvestris L.
+37,1972,2007,46,Best Picture,Black Roses ,Juncus nevadensis S. Watson
+38,2002,2008,61,Best Original Screenplay,Two Guys Talkin' About Girls,Agalinis setacea (J.F. Gmel.) Raf.
+39,1989,2012,3,Best Adapted Screenplay,The Green Prince,Grimmia anodon Bruch & Schimp.
+40,2011,1994,65,Best Actress,Pups,"Iva annua L. var. macrocarpa (S.F. Blake) R.C. Jacks., nom. inq."
+41,2004,2002,82,Best Adapted Screenplay,Fanatics (Kulman pojat),Penstemon newberryi A. Gray ssp. berryi (Eastw.) D.D. Keck
+42,2001,2012,79,Best Original Screenplay,Protector (Protektor),Blighia sapida K.D. Koenig
+43,2012,1998,23,Best Original Screenplay,"Ghoul, The",Agapanthus praecox Willd.
+44,1997,1993,83,Best Adapted Screenplay,"Machine, The",Luzula luzuloides (Lam.) Dandy & Wilmott
+45,1990,1987,42,Best Adapted Screenplay,Audition (Ôdishon),Croton impressus Urb.
+46,1993,1995,54,Best Actress,"Red Shoes, The",Lithospermum caroliniense (Walter ex J.F. Gmel.) MacMill. var. croceum (Fernald) Cronquist
+47,2005,2000,34,Best Director,Two Guys Talkin' About Girls,Sphaeralcea coccinea (Nutt.) Rydb.
+48,2012,1986,76,Best Actress,Broken Vessels,Euphorbia myrsinites L.
+49,1999,1992,74,Best Adapted Screenplay,Lathe of Heaven,Graphis tenella Ach.
+50,2002,2000,80,Best Adapted Screenplay,"Juror, The",Dichanthelium villosissimum (Nash) Freckmann
+51,2010,2003,64,Best Picture,Holiday Spin,Festuca baffinensis Polunin
+52,1994,2004,85,Best Adapted Screenplay,My Brother Tom,Isoetes microvela D.F. Brunton
+53,2003,1999,56,Best Actress,Desire: The Vampire,Polemonium viscosum Nutt.
+54,2012,2011,95,Best Original Screenplay,Georg,Melica subulata (Griseb.) Scribn. var. subulata
+55,2010,1994,66,Best Director,"She Does Not Drink, Smoke or Flirt But... She Talks",Sisyrinchium idahoense E.P. Bicknell var. idahoense
+56,2005,1992,63,Best Actor,Last Resort (National Lampoon's Last Resort),Leptobryum pyriforme (Hedw.) Wilson
+57,1996,2007,52,Best Director,Just Anybody (Le premier venu),Lomatium sandbergii (J.M. Coult. & Rose) J.M. Coult. & Rose
+58,2011,2006,51,Best Adapted Screenplay,See No Evil,Eriogonum umbellatum Torr. var. porteri (Small) S. Stokes
+59,2006,2010,17,Best Picture,Krush Groove,Phlox multiflora A. Nelson ssp. multiflora
+60,1992,1992,85,Best Actor,Fire and Ice,Camissonia guadalupensis (S. Watson) P.H. Raven ssp. clementina (P.H. Raven) P.H. Raven
+61,2006,2005,75,Best Picture,2010: The Year We Make Contact,Porpidia diversa (Lowe) Gowan
+62,1999,2011,94,Best Actor,"Mercredi, folle journée!",Solidago sempervirens L. var. sempervirens
+63,2009,1996,4,Best Original Screenplay,Electric Shadows (Meng ying tong nian),Oxypetalum R. Br.
+64,2012,2012,25,Best Director,Commandos Strike at Dawn,Lycium puberulum A. Gray
+65,1988,2004,5,Best Original Screenplay,"Good bye, Lenin!",Ivesia utahensis S. Watson
+66,1995,2009,57,Best Director,"Wedding Director, The (Il regista di matrimoni)",Sapindus saponaria L. var. drummondii (Hook. & Arn.) L.D. Benson
+67,1997,2002,36,Best Actor,Winter's Bone,Elymus L.
+68,1996,1968,57,Best Adapted Screenplay,"Love Guru, The",Ivesia utahensis S. Watson
+69,2005,2002,78,Best Adapted Screenplay,Memento,Opegrapha calcarea Turner ex Sm. & Sowerby
+70,2011,1999,78,Best Actor,"Special Day, A (Giornata particolare, Una)",Gilia aliquanta A.D. Grant & V.E. Grant ssp. breviloba A.D. Grant & V.E. Grant
+71,1992,1999,39,Best Original Screenplay,Triangle (Tie saam gok),Prunus fasciculata (Torr.) A. Gray var. punctata Jeps.
+72,2007,2005,40,Best Director,Daylight,Lupinus leucophyllus Douglas ex Lindl. ssp. leucophyllus var. belliae C.P. Sm.
+73,1996,2001,91,Best Director,Here Without Me (Inja bedoone man),Arctostaphylos montereyensis Hoover
+74,1998,1984,33,Best Actor,"Independent, The",Dirina paradoxa (Fée) Tehler
+75,1994,1992,92,Best Picture,Haxan: Witchcraft Through the Ages (a.k.a. The Witches),Lychnis viscaria L.
+76,2001,2006,27,Best Actor,Drop Dead Gorgeous,Machaeranthera pinnatifida (Hook.) Shinners ssp. gooddingii (A. Nelson) B.L. Turner & R.L. Hartm. var. paradoxa B.L. Turner & R.L. Hartm.
+77,1959,1988,43,Best Actress,Karlsson on the Roof,Pertusaria neoscotica Lamb
+78,2012,2003,5,Best Director,Alexandra (Aleksandra),Polyctenium Greene
+79,2008,1999,14,Best Adapted Screenplay,Playing 'In the Company of Men' (En jouant 'Dans la compagnie des hommes'),Abies guatemalensis Rehder
+80,1995,1991,79,Best Director,Howling II: Your Sister Is a Werewolf,Polypogon fugax Nees ex Steud.
+81,2004,2009,42,Best Original Screenplay,"Pruitt-Igoe Myth, The",Juncus elliottii Chapm.
+82,1997,1993,84,Best Adapted Screenplay,Protector (Protektor),Halogeton C.A. Mey.
+83,2002,2000,12,Best Director,Jean de Florette,Botrychium ascendens W.H. Wagner
+84,1993,1998,66,Best Director,"Black Sabbath (Tre volti della paura, I)",Astragalus linifolius Osterh.
+85,2008,2004,15,Best Adapted Screenplay,Room at the Top,Hyperphyscia syncolla (Tuck. ex Nyl.) Kalb
+86,2009,2008,34,Best Picture,Gunday,Melaspilea maculosa (Fr.) Müll. Arg.
+87,1996,2000,10,Best Original Screenplay,Japan's Longest Day (Nihon no ichiban nagai hi),"Lecidella subauriculata (de Lesd.) ?, ined.?"
+88,2001,1985,16,Best Original Screenplay,"Hound of the Baskervilles, The",Dichanthelium villosissimum (Nash) Freckmann
+89,2002,2011,90,Best Actress,MVP: Most Valuable Primate,Plagiomnium venustum (Mitt.) T. Kop.
+90,1999,1996,97,Best Picture,7 Boxes (7 cajas),Rhizophora mangle L.
+91,1990,1987,56,Best Adapted Screenplay,Picture This,Penstemon strictiformis Rydb.
+92,1994,1994,64,Best Actress,Krush Groove,Potentilla subviscosa Greene var. subviscosa
+93,2002,1984,21,Best Actress,"First Nudie Musical, The",Potamogeton pulcher Tuck.
+94,2012,2007,73,Best Picture,"Evening with Kevin Smith 2: Evening Harder, An",Minuartia caroliniana (Walter) Mattf.
+95,1994,2006,16,Best Picture,"Well Spent Life, A",Iris ×robusta E.S. Anderson
+96,1992,2004,5,Best Director,"Special Day, A (Giornata particolare, Una)",Ambrosia chamissonis (Less.) Greene
+97,2010,1988,67,Best Actress,Eddie Izzard: Glorious,Erigeron cuneifolius DC.
+98,2008,2010,19,Best Actress,Brain Donors,Parkia clappertoniana Keay
+99,2013,2010,5,Best Actress,Harry and Tonto,"Lecidella subauriculata (de Lesd.) ?, ined.?"
+100,2006,1992,52,Best Adapted Screenplay,Jungle Holocaust (Ultimo mondo cannibale),Berberis thunbergii DC.
